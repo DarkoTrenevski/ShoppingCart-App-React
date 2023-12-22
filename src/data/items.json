@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Legion Y7000",
+    "price": 1000.99,
+    "imgUrl": "/imgs/legion.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Macbook Pro",
+    "price": 2000.99,
+    "imgUrl": "/imgs/macbook.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Alienware x15 R2",
+    "price": 1500.99,
+    "imgUrl": "/imgs/alienware.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Asus Zenbook 15",
+    "price": 850.99,
+    "imgUrl": "/imgs/zenbook.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Asus ROG Strix G",
+    "price": 1750.99,
+    "imgUrl": "/imgs/rog.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gigabyte G5",
+    "price": 1234.99,
+    "imgUrl": "/imgs/gigabyte.jpg"
+  }
+]
